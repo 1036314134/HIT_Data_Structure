@@ -1,0 +1,22 @@
+
+13
+10
+2
+A B
+A F
+A G
+B C
+C G
+C I
+D E
+D I
+E H
+E J
+F G
+G H
+I J
+
+深搜1：A B C G F H E D I J
+深搜2：A G H E J I D C B F
+广搜1：A B F G C H I E D J
+广搜2：A G F B H C E I J D
